@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tanjavaner/tanjavaner.github.io/static/css/main.dfd84df7.css",
+    "main.js": "/tanjavaner/tanjavaner.github.io/static/js/main.ab6b7d2d.js",
+    "index.html": "/tanjavaner/tanjavaner.github.io/index.html",
+    "main.dfd84df7.css.map": "/tanjavaner/tanjavaner.github.io/static/css/main.dfd84df7.css.map",
+    "main.ab6b7d2d.js.map": "/tanjavaner/tanjavaner.github.io/static/js/main.ab6b7d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd84df7.css",
+    "static/js/main.ab6b7d2d.js"
+  ]
+}
